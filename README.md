@@ -53,13 +53,13 @@
 
 ### 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev)
 
 ---
 
 ### ⚡ GitHub Stats
 
-[![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)]
+![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)
 
 [website]: https://abzzdev.github.io
 [twitter]: https://twitter.com/
