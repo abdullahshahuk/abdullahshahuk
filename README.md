@@ -55,7 +55,7 @@
 ### 📊 My GitHub Stats
 
 ![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=9&layout=compact)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
