@@ -52,7 +52,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev)](https://github.com/abzzdev/github-readme-stats)
+  [![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true)
+](https://github.com/abzzdev/github-readme-stats)
 
 
 </details>
