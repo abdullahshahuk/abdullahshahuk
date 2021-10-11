@@ -1,12 +1,15 @@
-### Hi there, I'm Abdullah - aka [ABZZDEV][website] 👋
- 
-## I'm a Full-Stack Developer and Crypto Enthusiast
+
+
+<h1 align="center">Hi there, I'm Abdullah - aka [ABZZDEV][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I'm a Full-Stack Developer and Crypto Enthusiast from the UK.</h3>
+
+## 🙋‍♂️ About Me
 
 - 📈 I’m currently widening my skillset
 - 👨‍💻 I'm looking to expand my potfolio
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Connect with me:
+### 💻 Connect with me:
 
 [<img align="left" alt="abzzdev.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="ABZZDEV | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -16,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🚀 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -51,15 +54,15 @@
 
 ---
 
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=10&layout=compact)
-
----
-
-### ⚡ GitHub Stats
+### 📊 My GitHub Stats
 
 ![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=10&layout=compact)
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=abzzdev">
+</a>
 
 [website]: https://abzzdev.github.io
 [twitter]: https://twitter.com/
