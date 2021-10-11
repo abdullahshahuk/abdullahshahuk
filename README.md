@@ -41,11 +41,11 @@
 ### 💻 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- [Project 1](https://google.com)
-- [Project 2](https://google.com)
-- [Project 3](https://google.com)
-- [Project 4](https://google.com)
-- [Project 5](https://google.com)
+- [My Portfolio Website](https://abzzdev.github.io)
+- [Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)
+- [Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)
+- [Chainlink Verifiable Randomness NFTs](https://google.com)
+- [Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)
 <!-- PROJECT-LIST:END -->
 
 ➡️ [more projects...](https://abzzdev.github.io)
