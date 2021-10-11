@@ -58,7 +58,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=8&layout=compact)
 
-## ❤ Views and Followers
+## 👀 Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abzzdev">
 </a>
