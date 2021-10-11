@@ -59,7 +59,7 @@
 
 ### ⚡ GitHub Stats
 
-[![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true)
+[![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)
 ](https://github.com/abzzdev/github-readme-stats)
 
 [website]: https://abzzdev.github.io
