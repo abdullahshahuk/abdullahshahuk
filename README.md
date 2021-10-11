@@ -52,7 +52,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.abzzdev.vercel.app/api?username=abzzdev&show_icons=true&hide_border=true" />
+  [![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev)](https://github.com/abzzdev/github-readme-stats)
+
 
 </details>
 
