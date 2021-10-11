@@ -51,18 +51,16 @@
 
 ---
 
-### Most Used Languages
+### 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  [![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true)
+### ⚡ GitHub Stats
+
+[![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true)
 ](https://github.com/abzzdev/github-readme-stats)
-
-
-</details>
 
 [website]: https://abzzdev.github.io
 [twitter]: https://twitter.com/
