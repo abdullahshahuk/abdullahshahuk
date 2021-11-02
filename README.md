@@ -56,7 +56,7 @@
 
 ![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore)
 
 ## 👀 Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
