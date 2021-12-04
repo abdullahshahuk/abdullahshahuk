@@ -64,7 +64,7 @@
 </a>
 
 [website]: https://abzzdev.github.io
-[twitter]: https://twitter.com/abzzdev
+[twitter]: https://twitter.com/abdullahshahuk
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/abdullah-shah-16a1a3174
