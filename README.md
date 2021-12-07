@@ -5,7 +5,7 @@
 
 - 📈 I’m currently widening my skillset
 - 👨‍💻 I'm looking to expand my potfolio
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
