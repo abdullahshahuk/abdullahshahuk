@@ -41,29 +41,29 @@
 ### 💻 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- [My Portfolio Website](https://abzzdev.github.io)
+- [My Portfolio Website](https://0xColdFusion.github.io)
 - [Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)
 - [Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)
 - [Chainlink Verifiable Randomness NFTs](https://google.com)
 - [Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)
 <!-- PROJECT-LIST:END -->
 
-➡️ [more projects...](https://abzzdev.github.io)
+➡️ [more projects...](https://0xColdFusion.github.io)
 
 ---
 
 ### 📊 My GitHub Stats
 
-![Abzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzzdev&count_private=true&show_icons=true&theme=gradient)
+![0xColdFusion GitHub stats](https://github-readme-stats.vercel.app/api?username=0xColdFusion&count_private=true&show_icons=true&theme=gradient)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzzdev&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xColdFusion&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
 
 ## 👀 Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abzzdev">
 </a>
 
-[website]: https://abzzdev.github.io
+[website]: https://0xColdFusion.github.io
 [twitter]: https://twitter.com/abdullahshahuk
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
