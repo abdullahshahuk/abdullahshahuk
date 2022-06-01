@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://0xColdFusion.github.io">0xColdFusion</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://USERNAME.github.io">Abdullah Shah</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a Full-Stack Developer and Crypto Enthusiast from the UK.</h3>
 
 ## About Me
@@ -41,14 +41,14 @@
 ### 💻 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- [My Portfolio Website](https://0xColdFusion.github.io)
+- [My Portfolio Website](https://USERNAMEHERE.github.io)
 - [Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)
 - [Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)
 - [Chainlink Verifiable Randomness NFTs](https://google.com)
 - [Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)
 <!-- PROJECT-LIST:END -->
 
-➡️ [more projects...](https://0xColdFusion.github.io)
+➡️ [more projects...](https://USERNAMEHERE.github.io)
 
 ---
 
@@ -63,8 +63,8 @@
     <img src="https://komarev.com/ghpvc/?username=abzzdev">
 </a>
 
-[website]: https://0xColdFusion.github.io
-<!-- [twitter]: https://twitter.com/ -->
+[website]: https://USERNAMEHERE.github.io
+[twitter]: https://twitter.com/abdullahshahuk
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/0xashah
