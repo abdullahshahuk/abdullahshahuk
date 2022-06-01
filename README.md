@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://USERNAME.github.io">Abdullah Shah</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://abdullahshahuk.github.io">Abdullah Shah</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a Full-Stack Developer and Crypto Enthusiast from the UK.</h3>
 
 ## About Me
@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="abzzdev.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="ABZZDEV | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="ABZZDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ABZZDEV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="ABZZDEV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="abdullahshahuk.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="Abdullah Shah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="Abdullah Shah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Abdullah Shah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="Abdullah Shah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -41,29 +41,29 @@
 ### 💻 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- [My Portfolio Website](https://USERNAMEHERE.github.io)
+- [My Portfolio Website](https://abdullahshahuk.github.io)
 - [Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)
 - [Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)
 - [Chainlink Verifiable Randomness NFTs](https://google.com)
 - [Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)
 <!-- PROJECT-LIST:END -->
 
-➡️ [more projects...](https://USERNAMEHERE.github.io)
+➡️ [more projects...](https://abdullahshahuk.github.io)
 
 ---
 
 ### 📊 My GitHub Stats
 
-![0xColdFusion GitHub stats](https://github-readme-stats.vercel.app/api?username=0xColdFusion&count_private=true&show_icons=true&theme=gradient)
+![Abdullah Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xColdFusion&count_private=true&show_icons=true&theme=gradient)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xColdFusion&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahukn&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
 
 ## 👀 Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abzzdev">
+    <img src="https://komarev.com/ghpvc/?username=abdullahshahuk">
 </a>
 
-[website]: https://USERNAMEHERE.github.io
+[website]: https://abdullahshahuk.github.io
 [twitter]: https://twitter.com/abdullahshahuk
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
