@@ -64,7 +64,7 @@
 </a>
 
 [website]: https://0xColdFusion.github.io
-[twitter]: https://twitter.com/abdullahshahuk
+<!-- [twitter]: https://twitter.com/ -->
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/0xashah
