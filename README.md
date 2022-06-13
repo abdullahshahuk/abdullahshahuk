@@ -54,9 +54,9 @@
 
 ### 📊 My GitHub Stats
 
-![Abdullah Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xColdFusion&count_private=true&show_icons=true&theme=gradient)
+![Abdullah Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahshahuk&count_private=true&show_icons=true&theme=gradient)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahukn&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahuk&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
 
 ## 👀 Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
