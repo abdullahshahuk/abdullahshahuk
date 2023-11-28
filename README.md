@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://abdullahshahuk.github.io">Abdullah Shah</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a Data Engineer, Full-Stack Developer and Crypto Enthusiast from the UK.</h3>
+<h3 align="center">I'm a Data Engineer and Full-Stack Developer from the UK.</h3>
 
 ## About Me
 
-- 📈 I’m currently widening my skillset
-- 👨‍💻 I'm looking to expand my portfolio
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 📈 I’m currently widening my skillset.
+- 🥅 2024 Goals: To grow my portfolio of websites.
 
 ### Connect with me:
 
