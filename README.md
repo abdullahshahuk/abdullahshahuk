@@ -43,8 +43,8 @@
 - [My Portfolio Website](https://abdullahshahuk.github.io)
 - [Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)
 - [Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)
-<!-- - [Chainlink Verifiable Randomness NFTs](https://google.com) -->
 - [Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)
+<!-- - [Chainlink Verifiable Randomness NFTs](https://google.com) -->
 <!-- PROJECT-LIST:END -->
 
 ➡️ [more projects...](https://abdullahshahuk.github.io)
