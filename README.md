@@ -1,69 +1,75 @@
-<h1 align="center">Hi there, I'm <a href="https://abdullahshahuk.github.io">Abdullah Shah</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a Data Engineer and Full-Stack Developer from the UK.</h3>
-
-## About Me
-
-- 📈 I’m currently widening my skillset.
-- 🥅 2024 Goals: To grow my portfolio of websites.
-
-### Connect with me:
-
-[<img align="left" alt="abdullahshahuk.github.io" width="22px" src="/resources/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="Abdullah Shah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Abdullah Shah | Twitter" width="22px" color="gray" src="/resources/svg/twitter.svg" />][twitter]
-[<img align="left" alt="Abdullah Shah | LinkedIn" width="22px" src="/resources/svg/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="Abdullah Shah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+<h1 align="center">Hi there, I'm <a href="https://abdullahshahuk.github.io">Abdullah Shah</a> 👋</h1>
+<h3 align="center">🚀 Data Engineer | Full-Stack Developer | Automation Enthusiast</h3>
 
 ---
 
-### 💻 Latest Projects
+## 👨‍💻 About Me  
 
-<!-- PROJECT-LIST:START -->
-- [My Portfolio Website](https://abdullahshahuk.github.io)
-- [Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)
-- [Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)
-- [Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)
-<!-- - [Chainlink Verifiable Randomness NFTs](https://google.com) -->
-<!-- PROJECT-LIST:END -->
-
-➡️ [more projects...](https://abdullahshahuk.github.io)
+💡 **Tech-driven problem solver** with experience in **data engineering, full-stack development, and automation**.  
+📊 Passionate about **data pipelines, web scraping, and process optimization**.  
+🔧 Always **learning and experimenting** with new technologies to solve real-world problems.  
+🥅 **2025 Goals:** Expand my portfolio of projects, automate workflows, and build innovative solutions.  
 
 ---
 
-### 📊 My GitHub Stats
+## 📬 Connect with Me  
 
-![Abdullah Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahshahuk&count_private=true&show_icons=true&theme=gradient)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahuk&langs_count=8&layout=compact&exclude_repo=TheGameCompanyStore,ShopWebsiteTemplate,SageTeamManagerX,Math-Mania,Transparent-Search-Bar,Floating-Text-Effect,Transparent-Login-Page,Glitch-Text-Effect,game-developers-website)
+<p align="left">
+  <a href="https://abdullahshahuk.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/0xashah" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/abdullahshahuk" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:abdullahshahuk@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
 
-## 👀 Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abdullahshahuk">
-</a>
+---
 
-[website]: https://abdullahshahuk.github.io
-[twitter]: https://twitter.com/abdullahshahuk
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/0xashah
+## 🛠 Tech Stack  
+
+#### 💻 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🛢 **Databases & APIs**
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/REST-APIs-%23FF9900.svg?style=for-the-badge&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 🛠 **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🔥 Latest Projects  
+
+🚀 **[My Portfolio Website](https://abdullahshahuk.github.io)**  
+🎥 **[Hunting Grounds Stream Overlay](https://github.com/Hunting-Grounds/Hunting-Grounds-Stream-Overlay)**  
+📚 **[Active Learn Education Trust CoTeach](https://github.com/ALET-CoTeach/CoTeach)**  
+🛠 **[Sage TeamX](https://github.com/jasonmccormack/UTC-STUDENT-PROJECT)**  
+
+➡️ **[More projects...](https://abdullahshahuk.github.io)**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahshahuk&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahuk&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 GitHub Views  
+<img src="https://komarev.com/ghpvc/?username=abdullahshahuk" alt="Profile Views Counter" />
+
+---
+
+📌 **Let's connect! Feel free to reach out.** 🚀  
